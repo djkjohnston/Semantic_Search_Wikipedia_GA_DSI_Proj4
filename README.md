@@ -79,7 +79,3 @@ $ docker run --rm -v $(pwd):/home/jovyan dj/scipy-notebook-extended python wiki_
 Please note that the docker image used as a template must include the `spacey` library. A screenshot has been provided below as an illustration of the functionality.
 
 <img src='https://git.generalassemb.ly/raw/dannyboyjohnston/semantic_search/master/assets/semantic_search_command_line_example.png'>
-
-### Part 3 -- Predictive Model (optional)
-
-Not implemented
